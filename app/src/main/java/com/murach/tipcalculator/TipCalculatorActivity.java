@@ -32,6 +32,7 @@ implements OnEditorActionListener, OnClickListener {
     private TextView tipTextView;
     private TextView totalTextView;
     private TextView nameTextView;
+    private EditText  editTextExtra;
     
     // define instance variables that should be saved
     private String billAmountString = "";
